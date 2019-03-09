@@ -394,24 +394,42 @@
 
 # Syntactic Bootstrapping
 
+- duality of patterning -> syntax
+- children are born with the innate ability to understand syntax
 
 
 
 # Phonological Bootstrapping
 
+- duality of patterning -> phonology
+- children are born with the innate ability to understand phonology
 
 
 # Word Segmentation
 
+- probability of when two sounds are next to each other
+- children can segment words easily
+- recognize own name by 4.5 months
 
 
 
 # Parental Feedback
 
+- children don't need it to learn their native language
+- Simon learned to speak ASL better than his parents
+- Trackton, parents don't talk to their children before they can speak
 
 
 
 # Assumptions (Constraints) Guiding Learning of Word Meaning
+
+- whole object assumption
+  - words refer to whole objects
+- taxonomic assumption
+  - words refer to things of the same kind
+- mutual exclusivity
+  - words have a 1 to 1 mapping with meaning
+  - only for monolinguals
 
 
 
