@@ -268,6 +268,7 @@
 
 ## Copula Absence
 
+- absence of "is" "are" "am" "were" etc.
 - She runnin'
 
 
@@ -276,22 +277,31 @@
 # Register
 
 - formal, informal
+- phonological reduction is usually informal register
+- flapping "tt" -> "dd"
+- unstressed vowel deletion
+- contractions
 
 
 # The Nature of Perspective Rules
 
-
-
-
-
-# Gender as a Factor in Linguistic Change
-
+- one of the variants is prescribed
+  - this is the "right" way to do it
 
 
 
 
 # Gender Differences in Language Use
 
+- women use more conservative variants of stable sociolinguistic variables
+- girls use non-standard variables with peers
+- boys use non-standard variables with interviewers
+
+
+
+# Gender as a Factor in Linguistic Change
+
+- paradoxically, they are also further along than men in adjusting language
 
 
 
