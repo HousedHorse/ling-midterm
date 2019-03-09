@@ -151,9 +151,9 @@
 - syrinx instead of larynx
   - vibrations in membrane of trachea
 - learn song in stages
-  (1) subsong
-  (2) plastic song
-  (3) crystallized song
+  1) subsong
+  2) plastic song
+  3) crystallized song
 - made up of discrete units
   - A A B B A C
   - follow a few basic patterns
@@ -171,9 +171,9 @@
 
 ## Order of Complexity
 
-(1) Finite-State Grammars (algebraic patterns): rats, monkeys, tamarins, finches, pigeons
-(2) Regular Grammars: humans, tamarins
-(3) Context-Free Grammars: humans only
+1) Finite-State Grammars (algebraic patterns): rats, monkeys, tamarins, finches, pigeons
+2) Regular Grammars: humans, tamarins
+3) Context-Free Grammars: humans only
 
 
 ------------------------------------------------------------------------------
