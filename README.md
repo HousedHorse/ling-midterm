@@ -245,9 +245,9 @@
 
 # Variations and Social Meaning
 
-- Labov fourth floor study
+- Labov fourth floor department store study
   - variation between different social classes
-- Labov department store study
+  - upper class keeps r, middle class uses some r, lower class uses almost no r
   - upper and lower classes don't change much after the get older
   - middle class changes to imitate upper class as they get older (middle class crossover)
 
