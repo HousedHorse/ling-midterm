@@ -236,8 +236,8 @@
 # Connection Between Change and Variation
 
 - change leads to variation
-    - grammar 1 affects language 1
-    - language 1 affects grammar 2
+  - grammar 1 affects language 1
+  - language 1 affects grammar 2
 - over time we are changing our grammar
 - divergence across areas where language is spoken
 
@@ -306,7 +306,9 @@
 
 # Gender as a Factor in Linguistic Change
 
-- paradoxically, they are also further along than men in adjusting language
+- women conform more to overtly prescribed variants
+  - conform less to variants that are not overtly prescribed
+- women are one generation ahead of men
 
 
 
@@ -315,7 +317,7 @@
 
 # Basic Vocal Tract Anatomy
 
-
+![](img/vocal-anatomy.png)
 
 
 # Basic Ideas About Vowel Articulation and Acoustics
