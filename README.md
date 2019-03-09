@@ -182,6 +182,7 @@
 # Language Family
 
 - descended from common ancestor speech community
+- from a common proto-language
 - English and German
 
 
@@ -189,19 +190,20 @@
 # Cognates
 
 - words that share common origin
+- features shared due to common descent
 
 
 
 
 # Proto-Languages
 
-(1) proto-indo-european
-(2) niger-congo
-(3) austronesian
-(4) trans-new-guinea
-(5) sino-tibetan
-(6) indo-european
-(7) afro-asiatic
+1) proto-indo-european
+2) niger-congo
+3) austronesian
+4) trans-new-guinea
+5) sino-tibetan
+6) indo-european
+7) afro-asiatic
 
 
 
@@ -225,28 +227,29 @@
 
 ![](img/can-shift.png)
 
+- Canadian shift moves "bet" low and "pat" back
+- Nothern cities shift is the opposite, moves "bet" high and "pat" forward
+
 
 
 
 # Connection Between Change and Variation
 
-
+- change leads to variation
+    - grammar 1 affects language 1
+    - language 1 affects grammar 2
+- over time we are changing our grammar
+- divergence across areas where language is spoken
 
 
 
 # Variations and Social Meaning
 
-
-
-
-
-# Labov's Fourth Floor Study
-
-
-
-
-
-#  Middle Class Crossover
+- Labov fourth floor study
+  - variation between different social classes
+- Labov department store study
+  - upper and lower classes don't change much after the get older
+  - middle class changes to imitate upper class as they get older (middle class crossover)
 
 
 
@@ -256,14 +259,23 @@
 
 ## Habitual Tense
 
+- She be runnin'
+  - She is often running
+
 ## Negative Concord
+
+- also used in Italian
+
+## Copula Absence
+
+- She runnin'
 
 
 
 
 # Register
 
-
+- formal, informal
 
 
 # The Nature of Perspective Rules
