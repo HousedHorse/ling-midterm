@@ -353,9 +353,8 @@
 
 # Minimal Pair
 
-- words that differ by one sound
-- do not exist in English
-- Chinese has these
+- pair words that differ by one sound
+
 
 
 
