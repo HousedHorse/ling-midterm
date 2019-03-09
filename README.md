@@ -259,17 +259,22 @@
 
 ## Habitual Tense
 
+- the "habitual be"
+  - "be" doesn't carry the same meaning as standard english
 - She be runnin'
   - She is often running
 
 ## Negative Concord
 
 - also used in Italian
+- double negative indicates a single negative
+- "I ain't never gonna love you"
 
 ## Copula Absence
 
 - absence of "is" "are" "am" "were" etc.
 - She runnin'
+  - She is running
 
 
 
