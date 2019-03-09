@@ -320,27 +320,73 @@
 ![](img/vocal-anatomy.png)
 
 
+
+
+
+
 # Basic Ideas About Vowel Articulation and Acoustics
+
+- front
+- back
+- high
+- low
+- resonance, acoustic performance
+- tongue changes the shape of the vocal cavity
+  - divides it in two
+
 
 
 
 
 # Phoneme
 
+- units of phonetics
+- discrete units of sound
 
 
 
 # Allophone
 
+- the sounds that represent a single phoneme
 
+
+
+# Minimal Pair
+
+- words that differ by one sound
+- do not exist in English
+- Chinese has these
+
+
+
+------------------------------------------------------------------------------
 
 
 # Presupposition
+
+- implicit assumption related to an utterance
+- Jim no longer walks on the beach
+  - the presupposition is that he used to walk on the beach
 
 
 
 
 # Implicature
+
+- something a speaker implies with an utterance without expressing
+  - "The picture frame is nice"
+  - the implication is I don't like the picture *inside the frame*
+
+
+
+
+# Grice's Maxims
+
+- speakers are good
+- act in good faith during a conversation
+- speakers are cooperative
+- assume other speakers are cooperative
+- quality, quantity, reverence
 
 
 ------------------------------------------------------------------------------
