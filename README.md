@@ -440,33 +440,64 @@
 
 # Pidgin and Creole Characteristics
 
+- pidgins
+  - limited communication systems after contact
+  - nobody's first language
+  - small lexicon
+  - unstructured, unsystematic
+  - simple phonology, morphology
+
+- creoles
+  - full-fledged languages that develop from pidgins
+  - native speakers
+  - share some features with pidgins (simplicity of phonology and morphology)
+
 
 
 
 
 # Difference Between Pidgins and Creoles
 
+- native speakers
+  - pidgin no, creole yes
+- pidgin has smaller lexicon
+- creole is more structured and systematic
 
 
 
-# Superstrate/Lexifer
 
+# Superstrate/Lexifier vs Substrate
 
-
-
-# Substrate
+- socio-politically powerful language is superstrate or lexifier
+- less powerful language is substrate
+- English is the superstrate in Jamaican creole
+- French is the superstrate in Hawaiian creole
 
 
 
 
 # Language Bioprogram Hypothesis
 
+- children faced with unstructured pidgins impose structure upon them
+- universal human grammar
+- this could be how pidgins become creoles
+
 
 
 
 # Critical Period Hypothesis
 
+- period in childhood when language acquisition is much easier
+- adults start well, plateau quickly
+- children start slowly and progress further
+- could explain why pidgins never develop complexity, while creoles do
+
 
 
 
 # Nicaraguan Sign Language
+
+- creole sign language
+- spontaneously emerging sign language in a new community
+- children restructure input radically
+  - give bias to certain grammatical structures and regularities
